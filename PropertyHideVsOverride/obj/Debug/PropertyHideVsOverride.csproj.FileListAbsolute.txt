@@ -1,0 +1,8 @@
+C:\Users\s.molaee\source\repos\PropertyHideVsOverride\PropertyHideVsOverride\bin\Debug\PropertyHideVsOverride.exe.config
+C:\Users\s.molaee\source\repos\PropertyHideVsOverride\PropertyHideVsOverride\bin\Debug\PropertyHideVsOverride.exe
+C:\Users\s.molaee\source\repos\PropertyHideVsOverride\PropertyHideVsOverride\bin\Debug\PropertyHideVsOverride.pdb
+C:\Users\s.molaee\source\repos\PropertyHideVsOverride\PropertyHideVsOverride\obj\Debug\PropertyHideVsOverride.csproj.AssemblyReference.cache
+C:\Users\s.molaee\source\repos\PropertyHideVsOverride\PropertyHideVsOverride\obj\Debug\PropertyHideVsOverride.csproj.SuggestedBindingRedirects.cache
+C:\Users\s.molaee\source\repos\PropertyHideVsOverride\PropertyHideVsOverride\obj\Debug\PropertyHideVsOverride.csproj.CoreCompileInputs.cache
+C:\Users\s.molaee\source\repos\PropertyHideVsOverride\PropertyHideVsOverride\obj\Debug\PropertyHideVsOverride.exe
+C:\Users\s.molaee\source\repos\PropertyHideVsOverride\PropertyHideVsOverride\obj\Debug\PropertyHideVsOverride.pdb
